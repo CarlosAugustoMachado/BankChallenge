@@ -2,6 +2,9 @@ package br.com.compass;
 
 import java.util.Scanner;
 
+
+//first commit
+
 public class App {
     
     public static void main(String[] args) {
